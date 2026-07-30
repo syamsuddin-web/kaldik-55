@@ -11,13 +11,6 @@
 
 Aplikasi web kalender pendidikan untuk **UPT SD Negeri 55 Otting** yang menampilkan seluruh kegiatan akademik selama tahun ajaran 2026/2027.
 
-Dibangun dengan:
-- **HTML5** - Struktur semantik
-- **Tailwind CSS** - Styling modern dan responsif
-- **JavaScript Vanilla** - Interaktivitas tanpa framework
-- **Font Awesome** - Ikon-ikon yang informatif
-
----
 
 ## ✨ Fitur Unggulan
 
